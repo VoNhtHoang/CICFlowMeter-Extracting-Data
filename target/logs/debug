@@ -1,0 +1,18 @@
+2025-10-14 18:21:48 DEBUG swing.common.SwingUtils    C:\Users\hoang\NTUSER.DAT (The process cannot access the file because it is being used by another process)
+2025-10-14 18:21:57 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\hoang\Documents\Dataset_KLTN\raw\benign
+2025-10-14 18:22:02 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\hoang\Documents\Dataset_KLTN\gotham2025_extracted\benign
+2025-10-14 18:22:04 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:24 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:25 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:25 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:26 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:26 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:27 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:27 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:27 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:22:27 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:29:57 DEBUG swing.common.SwingUtils    C:\Users\hoang\NTUSER.DAT (The process cannot access the file because it is being used by another process)
+2025-10-14 18:30:07 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\hoang\Documents\Dataset_KLTN\raw\malicious\mirai-dos
+2025-10-14 18:30:14 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\hoang\Documents\Dataset_KLTN\gotham2025_extracted\malicious\mirai-dos
+2025-10-14 18:30:15 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :8 pcap files
+2025-10-14 18:30:22 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :8 pcap files

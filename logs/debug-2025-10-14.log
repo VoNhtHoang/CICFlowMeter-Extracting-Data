@@ -1,0 +1,4 @@
+2025-10-14 18:03:22 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: com.slytechs.library.NativeLibrary.dlopen(Ljava/lang/String;)J
+2025-10-14 18:03:39 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:03:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files
+2025-10-14 18:03:52 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :78 pcap files

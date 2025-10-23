@@ -1,0 +1,453 @@
+2025-10-23 15:51:25 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 15:54:53 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:06:10 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:12:02 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:12:03 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:12:26 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:18:33 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:18:35 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:18:35 - Flow Offline Java Progress -> [CICFlowMeter found :78 pcap files, , ]
+2025-10-23 16:18:43 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:18:43 - Flow Offline Java Progress -> [CICFlowMeter found :78 pcap files, , ]
+2025-10-23 16:38:14 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:38:16 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:38:16 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 16:38:16 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , ] 	 Chunks[0]: 
+2025-10-23 16:38:16 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:38:16 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 16:38:16 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 16:42:41 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:42:43 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:42:43 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 16:42:43 - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:42:43 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: 
+2025-10-23 16:42:43 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:42:43 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 16:42:43 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 16:46:15 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:46:17 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:46:17 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 16:46:17 - 
+ ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:46:17 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: 
+2025-10-23 16:46:17 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:46:17 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 16:46:17 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 16:47:53 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 16:47:54 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:47:54 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 16:47:54 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+
+2025-10-23 16:47:54 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 16:47:54 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:47:54 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 16:47:54 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 16:55:15 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN\gotham2025_extracted
+2025-10-23 16:55:25 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 16:55:25 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 16:55:26 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 16:55:26 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 16:55:26 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 16:55:26 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 16:55:26 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:03:58 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:03:58 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:03:58 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:03:58 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:03:58 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:03:58 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:03:58 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:04:08 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:04:08 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:04:08 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:04:08 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:04:08 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:04:08 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:04:08 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:06:18 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:06:19 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:06:19 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:06:19 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-1_0-0_to_OpenvSwitch-28_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-2_0-0_to_OpenvSwitch-28_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-3_0-0_to_OpenvSwitch-28_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-4_0-0_to_OpenvSwitch-28_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-5_0-0_to_OpenvSwitch-28_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-city-power-1_0-0_to_OpenvSwitch-26_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-10_0-0_to_OpenvSwitch-13_10-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-2_0-0_to_OpenvSwitch-13_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-3_0-0_to_OpenvSwitch-13_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-4_0-0_to_OpenvSwitch-13_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-5_0-0_to_OpenvSwitch-13_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-6_0-0_to_OpenvSwitch-13_6-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-7_0-0_to_OpenvSwitch-13_7-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-8_0-0_to_OpenvSwitch-13_8-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-9_0-0_to_OpenvSwitch-13_9-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-1_0-0_to_OpenvSwitch-14_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-2_0-0_to_OpenvSwitch-14_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-3_0-0_to_OpenvSwitch-14_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-4_0-0_to_OpenvSwitch-14_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-5_0-0_to_OpenvSwitch-14_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-10_0-0_to_OpenvSwitch-18_10-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-11_0-0_to_OpenvSwitch-20_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-12_0-0_to_OpenvSwitch-20_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-13_0-0_to_OpenvSwitch-20_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-14_0-0_to_OpenvSwitch-20_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-15_0-0_to_OpenvSwitch-20_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-1_0-0_to_OpenvSwitch-18_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-2_0-0_to_OpenvSwitch-18_2-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-1_0-0_to_OpenvSwitch-28_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-2_0-0_to_OpenvSwitch-28_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-3_0-0_to_OpenvSwitch-28_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-4_0-0_to_OpenvSwitch-28_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-building-monitor-5_0-0_to_OpenvSwitch-28_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-city-power-1_0-0_to_OpenvSwitch-26_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-10_0-0_to_OpenvSwitch-13_10-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-2_0-0_to_OpenvSwitch-13_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-3_0-0_to_OpenvSwitch-13_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-4_0-0_to_OpenvSwitch-13_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-5_0-0_to_OpenvSwitch-13_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-6_0-0_to_OpenvSwitch-13_6-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-7_0-0_to_OpenvSwitch-13_7-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-8_0-0_to_OpenvSwitch-13_8-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-9_0-0_to_OpenvSwitch-13_9-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-1_0-0_to_OpenvSwitch-14_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-2_0-0_to_OpenvSwitch-14_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-3_0-0_to_OpenvSwitch-14_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-4_0-0_to_OpenvSwitch-14_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-combined-cycle-tls-5_0-0_to_OpenvSwitch-14_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-10_0-0_to_OpenvSwitch-18_10-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-11_0-0_to_OpenvSwitch-20_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-12_0-0_to_OpenvSwitch-20_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-13_0-0_to_OpenvSwitch-20_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-14_0-0_to_OpenvSwitch-20_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-15_0-0_to_OpenvSwitch-20_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-1_0-0_to_OpenvSwitch-18_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-2_0-0_to_OpenvSwitch-18_2-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-3_0-0_to_OpenvSwitch-18_3-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-4_0-0_to_OpenvSwitch-18_4-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-building-monitor-1_0-0_to_OpenvSwitch-28_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 2
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-building-monitor-2_0-0_to_OpenvSwitch-28_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 3
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-building-monitor-3_0-0_to_OpenvSwitch-28_3-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-5_0-0_to_OpenvSwitch-18_5-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 4
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-building-monitor-4_0-0_to_OpenvSwitch-28_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 5
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-building-monitor-5_0-0_to_OpenvSwitch-28_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 6
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-city-power-1_0-0_to_OpenvSwitch-26_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 7
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-6_0-0_to_OpenvSwitch-18_6-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-10_0-0_to_OpenvSwitch-13_10-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 8
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 9
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-2_0-0_to_OpenvSwitch-13_2-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-7_0-0_to_OpenvSwitch-18_7-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 10
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-3_0-0_to_OpenvSwitch-13_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 11
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-4_0-0_to_OpenvSwitch-13_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 12
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-8_0-0_to_OpenvSwitch-18_8-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-5_0-0_to_OpenvSwitch-13_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 13
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-6_0-0_to_OpenvSwitch-13_6-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 14
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-7_0-0_to_OpenvSwitch-13_7-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-9_0-0_to_OpenvSwitch-18_9-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 15
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-8_0-0_to_OpenvSwitch-13_8-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 16
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-9_0-0_to_OpenvSwitch-13_9-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 17
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-1_0-0_to_OpenvSwitch-23_1-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-tls-1_0-0_to_OpenvSwitch-14_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 18
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-tls-2_0-0_to_OpenvSwitch-14_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 19
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-2_0-0_to_OpenvSwitch-23_2-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-tls-3_0-0_to_OpenvSwitch-14_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 20
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-tls-4_0-0_to_OpenvSwitch-14_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 21
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-tls-5_0-0_to_OpenvSwitch-14_5-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-3_0-0_to_OpenvSwitch-23_3-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 22
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-10_0-0_to_OpenvSwitch-18_10-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 23
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-11_0-0_to_OpenvSwitch-20_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 24
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-12_0-0_to_OpenvSwitch-20_2-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-4_0-0_to_OpenvSwitch-23_4-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 25
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-13_0-0_to_OpenvSwitch-20_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 26
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-14_0-0_to_OpenvSwitch-20_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 27
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-5_0-0_to_OpenvSwitch-23_5-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-15_0-0_to_OpenvSwitch-20_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 28
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-1_0-0_to_OpenvSwitch-18_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 29
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-2_0-0_to_OpenvSwitch-18_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 30
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-10_0-0_to_OpenvSwitch-15_10-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-11_0-0_to_OpenvSwitch-16_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-12_0-0_to_OpenvSwitch-16_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-13_0-0_to_OpenvSwitch-16_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-14_0-0_to_OpenvSwitch-16_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-15_0-0_to_OpenvSwitch-16_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-1_0-0_to_OpenvSwitch-15_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-2_0-0_to_OpenvSwitch-15_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-3_0-0_to_OpenvSwitch-15_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-4_0-0_to_OpenvSwitch-15_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-5_0-0_to_OpenvSwitch-15_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-6_0-0_to_OpenvSwitch-15_6-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-7_0-0_to_OpenvSwitch-15_7-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-8_0-0_to_OpenvSwitch-15_8-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-9_0-0_to_OpenvSwitch-15_9-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-museum-1_0-0_to_OpenvSwitch-29_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-museum-2_0-0_to_OpenvSwitch-29_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-street-1_0-0_to_OpenvSwitch-24_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-street-2_0-0_to_OpenvSwitch-24_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-10_0-0_to_OpenvSwitch-19_10-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-11_0-0_to_OpenvSwitch-21_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-12_0-0_to_OpenvSwitch-21_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-13_0-0_to_OpenvSwitch-21_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-14_0-0_to_OpenvSwitch-21_4-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-15_0-0_to_OpenvSwitch-21_5-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-1_0-0_to_OpenvSwitch-19_1-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-2_0-0_to_OpenvSwitch-19_2-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-3_0-0_to_OpenvSwitch-19_3-0.pcap
+
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-4_0-0_to_OpenvSwitch-19_4-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Progress -> [Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-3_0-0_to_OpenvSwitch-18_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-4_0-0_to_OpenvSwitch-18_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-5_0-0_to_OpenvSwitch-18_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-6_0-0_to_OpenvSwitch-18_6-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-7_0-0_to_OpenvSwitch-18_7-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-8_0-0_to_OpenvSwitch-18_8-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-cooler-motor-9_0-0_to_OpenvSwitch-18_9-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-1_0-0_to_OpenvSwitch-23_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-2_0-0_to_OpenvSwitch-23_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-3_0-0_to_OpenvSwitch-23_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-4_0-0_to_OpenvSwitch-23_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-domotic-monitor-5_0-0_to_OpenvSwitch-23_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-10_0-0_to_OpenvSwitch-15_10-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-11_0-0_to_OpenvSwitch-16_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-12_0-0_to_OpenvSwitch-16_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-13_0-0_to_OpenvSwitch-16_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-14_0-0_to_OpenvSwitch-16_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-15_0-0_to_OpenvSwitch-16_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-1_0-0_to_OpenvSwitch-15_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-2_0-0_to_OpenvSwitch-15_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-3_0-0_to_OpenvSwitch-15_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-4_0-0_to_OpenvSwitch-15_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-5_0-0_to_OpenvSwitch-15_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-6_0-0_to_OpenvSwitch-15_6-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-7_0-0_to_OpenvSwitch-15_7-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-8_0-0_to_OpenvSwitch-15_8-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-hydraulic-system-9_0-0_to_OpenvSwitch-15_9-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-museum-1_0-0_to_OpenvSwitch-29_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-museum-2_0-0_to_OpenvSwitch-29_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-street-1_0-0_to_OpenvSwitch-24_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-ip-camera-street-2_0-0_to_OpenvSwitch-24_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-10_0-0_to_OpenvSwitch-19_10-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-11_0-0_to_OpenvSwitch-21_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-12_0-0_to_OpenvSwitch-21_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-13_0-0_to_OpenvSwitch-21_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-14_0-0_to_OpenvSwitch-21_4-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-15_0-0_to_OpenvSwitch-21_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-1_0-0_to_OpenvSwitch-19_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-2_0-0_to_OpenvSwitch-19_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-3_0-0_to_OpenvSwitch-19_3-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-4_0-0_to_OpenvSwitch-19_4-0.pcap] 	 Chunks[0]: Done! Total 0 flows
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-3_0-0_to_OpenvSwitch-18_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 31
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-5_0-0_to_OpenvSwitch-19_5-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-4_0-0_to_OpenvSwitch-18_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 32
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-5_0-0_to_OpenvSwitch-18_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 33
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-6_0-0_to_OpenvSwitch-18_6-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 34
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-6_0-0_to_OpenvSwitch-19_6-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-7_0-0_to_OpenvSwitch-18_7-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 35
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-8_0-0_to_OpenvSwitch-18_8-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 36
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-cooler-motor-9_0-0_to_OpenvSwitch-18_9-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 37
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-domotic-monitor-1_0-0_to_OpenvSwitch-23_1-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-7_0-0_to_OpenvSwitch-19_7-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 38
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-domotic-monitor-2_0-0_to_OpenvSwitch-23_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 39
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-domotic-monitor-3_0-0_to_OpenvSwitch-23_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 40
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-domotic-monitor-4_0-0_to_OpenvSwitch-23_4-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-8_0-0_to_OpenvSwitch-19_8-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 41
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-domotic-monitor-5_0-0_to_OpenvSwitch-23_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 42
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-10_0-0_to_OpenvSwitch-15_10-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 43
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-11_0-0_to_OpenvSwitch-16_1-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-9_0-0_to_OpenvSwitch-19_9-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 44
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-12_0-0_to_OpenvSwitch-16_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 45
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-13_0-0_to_OpenvSwitch-16_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 46
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-14_0-0_to_OpenvSwitch-16_4-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-stream-consumer-1_0-0_to_OpenvSwitch-30_1-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 47
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-15_0-0_to_OpenvSwitch-16_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 48
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-1_0-0_to_OpenvSwitch-15_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 49
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-2_0-0_to_OpenvSwitch-15_2-0.pcap
+2025-10-23 17:06:19 - ReadPcap FileWorker File - Func readPcap File - Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-stream-consumer-2_0-0_to_OpenvSwitch-30_2-0.pcap
+
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 50
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-3_0-0_to_OpenvSwitch-15_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 51
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-4_0-0_to_OpenvSwitch-15_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 52
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-5_0-0_to_OpenvSwitch-15_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 53
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-6_0-0_to_OpenvSwitch-15_6-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 54
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-7_0-0_to_OpenvSwitch-15_7-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 55
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-8_0-0_to_OpenvSwitch-15_8-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 56
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-hydraulic-system-9_0-0_to_OpenvSwitch-15_9-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 57
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-ip-camera-museum-1_0-0_to_OpenvSwitch-29_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 58
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-ip-camera-museum-2_0-0_to_OpenvSwitch-29_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 59
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-ip-camera-street-1_0-0_to_OpenvSwitch-24_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 60
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-ip-camera-street-2_0-0_to_OpenvSwitch-24_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 61
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-10_0-0_to_OpenvSwitch-19_10-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 62
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-11_0-0_to_OpenvSwitch-21_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 63
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-12_0-0_to_OpenvSwitch-21_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 64
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-13_0-0_to_OpenvSwitch-21_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 65
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-14_0-0_to_OpenvSwitch-21_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 66
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-15_0-0_to_OpenvSwitch-21_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 67
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-1_0-0_to_OpenvSwitch-19_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 68
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-2_0-0_to_OpenvSwitch-19_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 69
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-3_0-0_to_OpenvSwitch-19_3-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 70
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-4_0-0_to_OpenvSwitch-19_4-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 71
+2025-10-23 17:06:19 - Flow Offline Pane File - Progress -> [Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-5_0-0_to_OpenvSwitch-19_5-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-6_0-0_to_OpenvSwitch-19_6-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-7_0-0_to_OpenvSwitch-19_7-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-8_0-0_to_OpenvSwitch-19_8-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-predictive-maintenance-9_0-0_to_OpenvSwitch-19_9-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-stream-consumer-1_0-0_to_OpenvSwitch-30_1-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------, Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-stream-consumer-2_0-0_to_OpenvSwitch-30_2-0.pcap, Done! Total 0 flows, Packets stats: Total=0,Valid=0,Discarded=0, ---------------------------------------------------------------------------------------------------------------] 	 Chunks[0]: Done! Total 0 flows
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-5_0-0_to_OpenvSwitch-19_5-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 72
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-6_0-0_to_OpenvSwitch-19_6-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 73
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-7_0-0_to_OpenvSwitch-19_7-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 74
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-8_0-0_to_OpenvSwitch-19_8-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 75
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-predictive-maintenance-9_0-0_to_OpenvSwitch-19_9-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 76
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-stream-consumer-1_0-0_to_OpenvSwitch-30_1-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - File Count: -> 77
+2025-10-23 17:06:19 - Flow Offline Pane File - Current File: -> iotsim-stream-consumer-2_0-0_to_OpenvSwitch-30_2-0.pcap
+2025-10-23 17:06:19 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:13:59 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:14:01 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:14:01 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:14:01 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:14:01 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:14:01 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:14:01 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:14:01 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:19:56 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:19:56 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:19:56 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:19:57 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:19:57 - Packet Reader File - Config .... !
+2025-10-23 17:19:57 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:19:57 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:19:57 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:19:57 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:22:33 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:22:34 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:22:34 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:22:34 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:22:34 - Packet Reader File - Config .... - File Name: C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap!
+2025-10-23 17:22:34 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:22:34 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:22:34 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:22:34 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:24:57 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:24:58 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:24:58 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:24:58 - Packet Reader File - Config .... - File Name: C:/Users/hoang/Documents/Dataset_KLTN/raw/malicious/coap-amplificator/iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap!
+2025-10-23 17:24:58 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:24:58 - Flow Offline Pane File - Progress -> [CICFlowMeter found :1 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\malicious\coap-amplificator\iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :1 pcap files
+2025-10-23 17:24:58 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap
+2025-10-23 17:24:58 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:25:04 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:25:04 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:25:04 - Packet Reader File - Config .... - File Name: C:/Users/hoang/Documents/Dataset_KLTN/raw/malicious/coap-amplificator/iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap!
+2025-10-23 17:25:04 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:25:04 - Flow Offline Pane File - Progress -> [CICFlowMeter found :1 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\malicious\coap-amplificator\iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :1 pcap files
+2025-10-23 17:25:04 - Flow Offline Pane File - Current File: -> iotsim-combined-cycle-1_0-0_to_OpenvSwitch-13_1-0.pcap
+2025-10-23 17:25:04 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:27:16 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:27:17 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:27:17 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:27:17 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:27:17 - Packet Reader File - Config .... - File Name: C:/Users/hoang/Documents/Dataset_KLTN/raw/benign/iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:27:17 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:27:17 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:27:17 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:27:17 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:28:11 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:28:12 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:28:12 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:28:12 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:28:13 - Packet Reader File - Config .... - File Name: C:/Users/hoang/Documents/Dataset_KLTN/raw/benign/iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:28:13 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:28:13 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:28:13 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:28:13 - Flow Offline Pane File - Check State: -> DONE
+2025-10-23 17:33:38 - FlowOfflinePane File - selected output C:\Users\hoang\Documents\Dataset_KLTN
+2025-10-23 17:33:46 - Flow Offline Pane File - ##### NEW RUNNING! #####
+2025-10-23 17:33:46 - Read Pcap File Worker File - Successfully Inited 
+2025-10-23 17:33:46 - Flow Offline Pane File - Check State: -> STARTED
+2025-10-23 17:33:47 - Packet Reader File - Config .... - File Name: C:/Users/hoang/Documents/Dataset_KLTN/raw/benign/iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:33:47 - Flow Offline Pane File - Progress -> [CICFlowMeter found :78 pcap files, , , Working on... C:\Users\hoang\Documents\Dataset_KLTN\raw\benign\iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap] 	 Chunks[0]: CICFlowMeter found :78 pcap files
+2025-10-23 17:33:47 - Flow Offline Pane File - Current File: -> iotsim-air-quality-1_0-0_to_OpenvSwitch-25_1-0.pcap
+2025-10-23 17:33:47 - Flow Offline Pane File - File Count: -> 1
+2025-10-23 17:33:47 - Flow Offline Pane File - Check State: -> DONE
