@@ -1,11 +1,13 @@
 # CICFlowMeter - 
-Tác giả gốc của mã nguồn của tool này là các tác giả của: bài báo "Characterization of Tor Traffic Using Time Based Features" [1] và "Characterization of Encrypted and VPN Traffic Using Time-Related Features" [2]
+Tác giả gốc của mã nguồn của tool này là các tác giả của: bài báo "Characterization of Tor Traffic Using Time Based Features" [1] và "Characterization of Encrypted and VPN Traffic Using Time-Related Features" [2].
+
+Mã nguồn tham khảo tại [3].
 
 ## Mục tiêu sử dụng
 Mã nguồn này đã được can thiệp để phù hợp với mục tiêu khóa luận của tôi. Tôi sử dụng mã nguồn này với mục đích học tập và nghiên cứu, không có mục đích kiếm tiền hoặc vụ lợi nào khác.
 
 ## Vấn đề của mã nguồn gốc
-Khi compile bằng Maven/Gradle, đôi khi lib (jnetpcap, ...) sẽ không được load tự động vào file java. Sau khi tham khảo từ các nguồn khác nhau, tôi có tổng hợp được source của một video trên youtube [[3]], bây giờ mọi người có thể dễ dàng tùy chỉnh và sử dụng cho dự án của mình.
+Khi compile bằng Maven/Gradle, đôi khi lib (jnetpcap, ...) sẽ không được load tự động vào file java. Sau khi tham khảo từ các nguồn khác nhau, tôi có tổng hợp được source của một video trên youtube [[4]], bây giờ mọi người có thể dễ dàng tùy chỉnh và sử dụng cho dự án của mình.
 
 ## Cách sử dụng (Offline Mode - Convert pcap to csv)
 Trước tiên, chúng ta cần một trình biên dịch để biên dịch mã nguồn thành các file jar:
@@ -18,10 +20,10 @@ mvnd / mvn package
 mvn package
 ```
 
-Sau đó copy file ```CICFlowMeter-4.0.jar``` (tầm 200KB) vào thư mục lib (chứa sẵn các thư viện cần thiết):
+Sau đó copy file ```CICFlowMeter-4.0.jar``` (tầm 200KB) từ thư mục target vào thư mục lib (chứa sẵn các thư viện cần thiết):
 ![Trong thư mục lib](./Figures/libs.png)
 
-Cuối cùng sử dụng file bat trong thư mục bin ```CICFlowMeter.bat``` để chạy cửa sửa GUI:
+Cuối cùng sử dụng file bat trong thư mục bin ```CICFlowMeter.bat```(Windows) hay ```./CICFlowMeter```(Linux) để chạy cửa sổ GUI:
 ![Trong thư mục bin](./Figures/bin.png)
 
 Kết quả sau khi chạy:
@@ -32,4 +34,6 @@ Kết quả sau khi chạy:
 
 [2]: Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani, "Characterization of Encrypted and VPN Traffic Using Time-Related Features", In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome , Italy.
 
-[3]: https://www.youtube.com/watch?v=EaYyYy9uvt0
+[3]: Github - Repo: https://github.com/ahlashkari/CICFlowMeter
+
+[4]: https://www.youtube.com/watch?v=EaYyYy9uvt0
