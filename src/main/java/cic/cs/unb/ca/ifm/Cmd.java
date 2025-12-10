@@ -10,9 +10,15 @@ import org.slf4j.LoggerFactory;
 import cic.cs.unb.ca.jnetpcap.worker.InsertCsvRow;
 import swing.common.SwingUtils;
 
+// import java.io.Console;
 import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Stream;
 
 import static cic.cs.unb.ca.Sys.FILE_SEP;
 
@@ -20,13 +26,13 @@ public class Cmd {
 
     public static final Logger logger = LoggerFactory.getLogger(Cmd.class);
     private static final String DividingLine = "-------------------------------------------------------------------------------";
-    private static String[] animationChars = new String[]{"|", "/", "-", "\\"};
+    // private static String[] animationChars = new String[]{"|", "/", "-", "\\"};
 
     public static void main(String[] args) {
 
-        long flowTimeout = 120000000L;
-        long activityTimeout = 5000000L;
-        String rootPath = System.getProperty("user.dir");
+        long flowTimeout = 360000L;
+        long activityTimeout = 120000000L;
+        // String rootPath = System.getProperty("user.dir"); 
         String pcapPath;
         String outPath;
 
@@ -42,65 +48,102 @@ public class Cmd {
         }else {
         }*/
 
-        if (args.length < 1) {
-            logger.info("Please select pcap!");
-            return;
-        }
-        pcapPath = args[0];
-        File in = new File(pcapPath);
-
-        if(in==null || !in.exists()){
-            logger.info("The pcap file or folder does not exist! -> {}",pcapPath);
-            return;
-        }
-
         if (args.length < 2) {
-            logger.info("Please select output folder!");
+            System.out.println("CICFlowMeter Using: ");
+            System.out.println("%cmd% arg[0] arg[1]");
+            System.out.println("arg[0]: Input folder / pcap file");
+            System.out.println("arg[1]: Output folder Only!");
             return;
         }
+
+        // check Pcap path arg[0]
+        pcapPath = args[0];
+        File inputPath = new File(pcapPath);
+        if(inputPath==null || !inputPath.exists()){
+            System.out.println("The pcap file or folder does not exist! -> " + pcapPath);
+            return;
+        }
+
+        // Check outPath
         outPath = args[1];
         File out = new File(outPath);
         if (out == null || out.isFile()) {
-            logger.info("The out folder does not exist! -> {}",outPath);
+            System.out.println("The out folder does not exist! -> " + outPath);
             return;
         }
 
-        logger.info("You select: {}",pcapPath);
-        logger.info("Out folder: {}",outPath);
+        System.out.println("You select: " + pcapPath);
+        System.out.println("Out folder: " + outPath);
 
 
-        if (in.isDirectory()) {
-            readPcapDir(in,outPath,flowTimeout,activityTimeout);
+        if (inputPath.isDirectory()) {
+            readPcapDir(inputPath,outPath,flowTimeout,activityTimeout);
         } else {
 
-            if (!SwingUtils.isPcapFile(in)) {
-                logger.info("Please select pcap file!");
+            if (!SwingUtils.isPcapFile(inputPath)) {
+                System.out.println ("Please select pcap file!");
             } else {
-                logger.info("CICFlowMeter received 1 pcap file");
-                readPcapFile(in.getPath(), outPath,flowTimeout,activityTimeout);
+                System.out.println("CICFlowMeter received 1 pcap file");
+                readPcapFile(inputPath.getPath(), outPath,flowTimeout,activityTimeout);
             }
         }
+    }
 
+    private static List<File> findAllPcapFiles(File pcapPath){
+        List<File> pcapFiles = new ArrayList<>();
+
+        String FILE_EXTENSION = ".pcap";
+        Path startDir = Paths.get(pcapPath.toString());
+
+        System.out.println("Đang tìm kiếm file " + FILE_EXTENSION + " trong thư mục: " + startDir);
+
+        try {
+            // Files.walk() thực hiện duyệt đệ quy
+            try (Stream<Path> stream = Files.walk(startDir)) {
+                stream
+                    .filter(Files::isRegularFile) // Lọc chỉ giữ lại các file thông thường
+                    .filter(path -> path.toString().toLowerCase().endsWith(FILE_EXTENSION)) // Lọc theo đuôi .pcap (không phân biệt chữ hoa/thường)
+                    .forEach(path -> pcapFiles.add(path.toFile()) );
+            }
+        } catch (IOException e) {
+            logger.info("[E] Lỗi khi duyệt thư mục: " + e.getMessage());
+        }
+        return pcapFiles;
     }
 
     private static void readPcapDir(File inputPath, String outPath, long flowTimeout, long activityTimeout) {
         if(inputPath==null||outPath==null) {
             return;
         }
-        File[] pcapFiles = inputPath.listFiles(SwingUtils::isPcapFile);
-        int file_cnt = pcapFiles.length;
+        
+        // File[] pcapFiles = inputPath.listFiles(SwingUtils::isPcapFile);
+        List<File> pcapFiles = findAllPcapFiles(inputPath);
+        int file_cnt = pcapFiles.size();
+        
         System.out.println(String.format("CICFlowMeter found :%d pcap files", file_cnt));
-        for(int i=0;i<file_cnt;i++) {
-            File file = pcapFiles[i];
-            if (file.isDirectory()) {
-                continue;
-            }
-            int cur = i + 1;
-            System.out.println(String.format("==> %d / %d", cur, file_cnt));
-            readPcapFile(file.getPath(),outPath,flowTimeout,activityTimeout);
+        
+        // for(int i=0;i<file_cnt;i++) {
+        //     File file = pcapFiles[i];
+        //     if (file.isDirectory()) {
+        //         continue;
+        //     }
+        //     System.out.println(String.format("==> %d / %d", i+1, file_cnt));
+        //     readPcapFile(file.getPath(),outPath,flowTimeout,activityTimeout);
 
+        // }
+
+        for (int i=0; i<file_cnt; i++){
+            File f = pcapFiles.get(i);
+            if(f.isDirectory() || ! f.exists()) 
+                continue;
+            
+            System.out.println(String.format("==> %d / %d", i+1, file_cnt));
+            readPcapFile(f.getPath(),outPath,flowTimeout,activityTimeout);
+
+            System.gc();
         }
-        System.out.println("Completed!");
+        
+        System.out.println("Convert pcap in Dir Completeded!");
     }
 
     private static void readPcapFile(String inputFile, String outPath, long flowTimeout, long activityTimeout) {
@@ -132,8 +175,8 @@ public class Cmd {
         int nValid=0;
         int nTotal=0;
         int nDiscarded = 0;
-        long start = System.currentTimeMillis();
-        int i=0;
+        // long start = System.currentTimeMillis();
+        // int i=0;
         while(true) {
             /*i = (i)%animationChars.length;
             System.out.print("Working on "+ inputFile+" "+ animationChars[i] +"\r");*/
@@ -147,9 +190,10 @@ public class Cmd {
                     nDiscarded++;
                 }
             }catch(PcapClosedException e){
+                System.out.println("[i] Pcap Closed: "+ e.getMessage());
                 break;
             }
-            i++;
+            // i++;
         }
 
         flowGen.dumpLabeledCurrentFlow(saveFileFullPath.getPath(), FlowFeature.getHeader());

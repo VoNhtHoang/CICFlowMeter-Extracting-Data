@@ -252,13 +252,13 @@ public class FlowOfflinePane extends JPanel{
 
         JLabel lbl1 = new JLabel("Flow TimeOut:");
         param1Ele = new Vector<>();
-        param1Ele.add(360000L);
+        param1Ele.add(360000000L);
         param1 = new JComboBox<>(param1Ele);
         param1.setEditable(true);
 
         JLabel lbl2 = new JLabel("Activity Timeout:");
         param2Ele = new Vector<>();
-        param2Ele.add(120000000000L);
+        param2Ele.add(12000000L);
         param2 = new JComboBox<>(param2Ele);
         param2.setEditable(true);
 
@@ -371,7 +371,7 @@ public class FlowOfflinePane extends JPanel{
                                 updateOut(str);
                             }
                         });
-                        logger.info("Flow Offline Pane File - Progress -> {} \t Chunks[0]: {}", evt.getNewValue(), chunks.getFirst().toString());
+                        logger.info("Flow Offline Pane File - Progress -> {} \t Chunks[0]: {}", evt.getNewValue(), chunks.getFirst().toString()); // chunks.get(0)
                     }
                     
                 } else if ("state".equals(evt.getPropertyName())) {
@@ -403,7 +403,7 @@ public class FlowOfflinePane extends JPanel{
                     flowCnt.put(curFile, 0L);
 
                 } else if (ReadPcapFileWorker.PROPERTY_FLOW.equalsIgnoreCase(evt.getPropertyName())) {
-                    logger.info("Flow Offline Pane File - Flow To CSV: -> {}", evt.getNewValue());
+                    // logger.info("Flow Offline Pane File - Flow To CSV: -> {}", evt.getNewValue());
 
                     String fileName = (String) evt.getOldValue();
                     BasicFlow flow = (BasicFlow) evt.getNewValue();
