@@ -1,0 +1,43 @@
+    // public void handshake(ZMQ.Context context) {
+    //     String header = FlowFeature.getHeader();
+    //     boolean confirmed = false;
+    //     int timeout = 2000; // 2 giây
+
+    //     System.out.println("[Zmq-Worker] Đang bắt tay với Python...");
+
+    //     while (!confirmed && !Thread.currentThread().isInterrupted()) 
+    //     {
+    //         // Mỗi lần lặp tạo socket mới để reset trạng thái EFSM
+    //         try (ZMQ.Socket syncSocket = context.socket(SocketType.REQ)) 
+    //         {
+    //             syncSocket.connect("tcp://127.0.0.1:5556");
+    //             syncSocket.setReceiveTimeOut(timeout);
+    //             syncSocket.setSendTimeOut(timeout);
+    //             syncSocket.setLinger(0); // Đóng là mất luôn, không chờ
+
+    //             // 1. Gửi Header
+    //             syncSocket.send(header.getBytes(ZMQ.CHARSET), 0);
+
+    //             // 2. Đợi phản hồi (Bắt buộc phải có bước này để socket REQ hợp lệ)
+    //             byte[] reply = syncSocket.recv(0);
+
+    //             if (reply != null) {
+    //                 String replyStr = new String(reply, ZMQ.CHARSET);
+    //                 if ("OK".equals(replyStr)) {
+    //                     confirmed = true;
+    //                     System.out.println("[Zmq-Worker] Python xác nhận thành công!");
+    //                 }
+    //             } else {
+    //                 System.out.println("[Zmq-Worker] Python chưa trả lời, đang thử lại...");
+    //                 // Ngủ một chút trước khi thử lại để tránh spam CPU
+    //                 Thread.sleep(1000);
+    //             }
+    //         } 
+    //         catch (Exception e) 
+    //         {
+    //             System.err.println("[Java] Lỗi khi handshake: " + e.getMessage());
+    //         }
+    //     }
+    // }
+
+    
